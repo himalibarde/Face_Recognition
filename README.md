@@ -90,7 +90,7 @@ python 03_face_recognition.py
 ```
 
 - The webcam will start
-- Detected faces will be recognized with **User ID** and **confidence level**
+- Detected faces will be recognized with **User Name** and **confidence level**
 - Press **'esc'** to quit
 
 ## 👨‍💻 **Author**
