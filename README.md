@@ -18,11 +18,11 @@ This project includes face detection, training, and recognition modules using **
 
 ## 🛠️ **Technologies Used**
 
-**Python 3.8+** -  Core programming language
-**OpenCV** - Computer vision and image processing 
-**NumPy** - Numerical operations and array handling 
-**Haar Cascade Classifier** - Face detection algorithm 
-**LBPH Face Recognizer** - Face recognition algorithm
+**Python 3.8+** -  Core programming language     
+**OpenCV** - Computer vision and image processing   
+**NumPy** - Numerical operations and array handling   
+**Haar Cascade Classifier** - Face detection algorithm   
+**LBPH Face Recognizer** - Face recognition algorithm      
 
 ## ⚙️ **Installation**
 
