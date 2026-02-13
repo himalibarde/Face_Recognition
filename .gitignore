@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset and user images (optional)
+dataset/*
+!dataset/.gitkeep
+
+# Trained model (optional)
+trainer/*.yml
+trainer/*.xml
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
