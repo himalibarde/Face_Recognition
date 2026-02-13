@@ -52,7 +52,7 @@ pip install numpy
 The Haar Cascade XML file is usually included, but if missing, download it from:
 [Haar Cascade Frontal Face](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-Place it in the `haarcascade/` directory.
+(Download it in Project folder)
 
 ## 🎮 **Usage**
 
@@ -64,10 +64,10 @@ Run the face detection script to capture face images:
 python 01_face_dataset.py
 ```
 
-- Enter a **User ID** (numeric value, e.g., 1, 2, 3)
+- Enter a **User Name** 
 - The script will capture **50-100 images** of your face
 - Images will be saved in the `dataset/` folder
-- Press **'q'** to stop capturing early
+- Press **'esc'** to stop capturing early
 
 ### **Step 2: Train the Model**
 
@@ -92,4 +92,12 @@ python 03_face_recognition.py
 - The webcam will start
 - Detected faces will be recognized with **User ID** and **confidence level**
 - Press **'esc'** to quit
+
+## 👨‍💻 **Author**
+
+**Himali Barde**
+
+- GitHub: https://github.com/himalibarde
+- LinkedIn: www.linkedin.com/in/himali-barde-5b4b1a34a
+- Email: himalibarde859@gmail.com
 
