@@ -7,9 +7,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Dataset and user images (optional)
-dataset/*
-!dataset/.gitkeep
 
 # Trained model (optional)
 trainer/*.yml
